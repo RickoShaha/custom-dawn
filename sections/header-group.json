@@ -9,8 +9,8 @@
           "type": "announcement",
           "settings": {
             "text": "<p>Welcome to our store<\/p>",
-            "bg_color": "#ffffff",
-            "text_color": "#000000"
+            "bg_color": "#e22120",
+            "text_color": "#ffffff"
           }
         }
       },
