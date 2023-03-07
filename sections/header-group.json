@@ -12,10 +12,19 @@
             "bg_color": "#e22120",
             "text_color": "#ffffff"
           }
+        },
+        "e4e4c02d-4bc1-4683-a49f-a8a09abe950f": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>Free Shipping over $50<\/p>",
+            "bg_color": "#0c49e7",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "e4e4c02d-4bc1-4683-a49f-a8a09abe950f"
       ],
       "settings": {
         "text_align": "text-center"
